@@ -2,23 +2,6 @@ What it does
 
 Analyzes passwords for length and presence of lowercase, uppercase, digits, and special characters.
 
-Gives live feedback and assigns a strength classification (Weak → Strong). 
-GitHub
-+3
-GitHub
-+3
-GitHub
-+3
-GitHub
-+1
-GitHub
-+1
-
-Languages
-
-Primarily Python, but also includes HTML and CSS components (likely for UI). 
-GitHub
-GitHub
 
 Installation & Usage
 While not detailed in the visible README, typical usage likely involves cloning the repo and running the Python script.
