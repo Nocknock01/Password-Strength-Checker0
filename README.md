@@ -60,4 +60,3 @@ Password-Strength-Checker/
 ├── common_passwords.txt     # List of common passwords
 ├── password_strength_checker.py  # Main Python script with GUI
 ├── README.md
-└── screenshot.png
